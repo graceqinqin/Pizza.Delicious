@@ -1,0 +1,43 @@
+/* Basic Styles */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.navbar {
+    margin-bottom: 40px;
+}
+
+section {
+    padding: 50px 0;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-control {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 100%;
+}
+
+.btn {
+    background-color: #F96D00;
+    border: none;
+    padding: 12px 24px;
+    color: white;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: #ff7300;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+    font-weight: 600;
+}
